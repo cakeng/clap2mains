@@ -1,7 +1,7 @@
 /*
- * clapLight.cpp
- *
- * Created: 2018-04-08 오전 12:40:56
+* 	clapLight.cpp
+*
+*	Created: 2018-04-08 오전 12:40:56
 *	Author : Cakeng (PARK JONG SEOK)
 *
 *	NO LICENCE INCLUDED
