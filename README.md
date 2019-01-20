@@ -1,7 +1,7 @@
 # clap2mains
 Clap to turn On/Off mains powered devices. Uses attiny13 uC and moc3061 triac.
 
-Two claps (Or any sound pulses) with a short interval will trigger the triac to turn On/Off.
+Two claps (Or any sound pulses) within a short interval will trigger the triac to turn On/Off.
 
 Schemetics / PCB files : https://easyeda.com/cakeng/clapmains
 
