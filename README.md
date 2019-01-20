@@ -5,6 +5,7 @@ Two claps (Or any sound pulses) with a short interval will trigger the triac to 
 
 Schemetics / PCB files : https://easyeda.com/cakeng/clapmains
 
-AC mains circuits are dangerous and can cause severe injuries, fire, or death.
+AC mains circuits are dangerous and can cause severe injuries, fire, or death. 
 Use at your own risks.
+
 (Can be also modified to turn On/Off non mains circuits.)
